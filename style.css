@@ -1,0 +1,63 @@
+body {
+  background-image: url('https://wallup.net/wp-content/uploads/2019/09/20004-cards-red-eyes-anime-boys-chains-looking-up.jpg');
+ /* background-color: #b19cd9; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Roboto Mono', monospace;
+}
+
+section { 
+  -webkit-box-shadow: 11px 14px 28px 1px rgba(0,0,0,0.81); 
+  box-shadow: 11px 14px 28px 1px rgba(0,0,0,0.81);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  margin-top: 100px;
+  background-color: white;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+section h1 {
+  font-size: 25px;
+  text-align: center;
+}
+
+header {
+  background-image: url('https://image.freepik.com/vetores-gratis/fronteira-de-fogo-verde-realista-chama-ardente-clipart_107791-1038.jpg');
+  background-size: cover;
+  height:80px;
+  border-radius: 5px;
+}
+
+div {
+  padding: 15px;
+  border: 1px solid black;
+  /* propriedade visual: valor */
+  background-color: #bac3d6;
+  border-radius: 5px;
+}
+
+ol li a, a {
+  text-decoration:none;
+   color: #000;
+}
+
+ol li a:hover{
+  font-size: 20px;
+  text-decoration: underline;
+  padding: 8px;
+}
+
+img {
+  width: 150px;
+  height: 150px; 
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(-50%);
+  border: 8px solid white;
+}
