@@ -28,6 +28,6 @@
 
 
 
-## Para ver a aplicação direto no CodePen [clique aqui](https://codepen.io/yahikofz/details/BapZpBw).
+## Caso queira conhecer minhas outras páginas desenvolvidas no editor on-line CodePen [clique aqui](https://codepen.io/yahikofz/details/BapZpBw).
 
 
